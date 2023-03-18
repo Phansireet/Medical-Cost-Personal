@@ -8,7 +8,7 @@ In order to import the dataset, I used python's csv library to open and read the
 
 After that, slope and intercept are calculated by x and y values using numpy's polyfit function. The polyfit function return a vector of coefficients p that minimises the squared error in the order deg, deg-1, … 0.
 
-After that, I plotted the graph using x and y value and find the region under curve with this function.
+I plotted the graph using x and y value and find the region under curve with this function.
 ```
 def f(x):
     return slope * x + intercept
