@@ -1,6 +1,6 @@
 # Medical-Cost-Personal
 
-This project is the Linear regression model for medical cost dataset consisting of age, sex, BMI, children, smoker, and region and feature is the charges of insurance.
+This project is the Linear regression model for medical cost dataset consisting of age, sex, BMI, children, smoker, and region and feature is the charges of insurance. The group project consists of Phansiree Thitawattananon.
 
 Linear regression is an algorithm used to predict the value of a variable based on the value of another variable.
 
